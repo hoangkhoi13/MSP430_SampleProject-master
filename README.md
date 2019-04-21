@@ -1,1 +1,2 @@
-"# MSP430_SampleProject-master" 
+# MSP430_SampleProject-master
+Hello everyone
